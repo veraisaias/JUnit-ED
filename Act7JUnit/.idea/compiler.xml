@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Act6JUnit" />
-        <module name="MockVerificaciones" />
+        <module name="Act7JUnit" />
       </profile>
     </annotationProcessing>
   </component>
